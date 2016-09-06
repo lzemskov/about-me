@@ -1,3 +1,4 @@
 lzemskov
 Born in 1981
 Adding this line from 'add-fav-color' branch
+My color is Blue
